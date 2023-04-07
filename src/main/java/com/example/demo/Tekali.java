@@ -6,6 +6,7 @@ public class Tekali {
 		System.out.println(" Takeli is anjalis pet name ");
 		System.out.println(" Takeli mother name is siya singh");
 		System.out.println(" Takeli is anjali");
+		System.out.println(" Hello world");
 	}
 
 }
